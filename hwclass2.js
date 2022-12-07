@@ -13,7 +13,7 @@ class Governor {
     
     
     static sayHello( hello){
-         return 'hello , from Trump';
+         return 'Hello , from Governor';
         
     }
 
